@@ -36,6 +36,8 @@
 
 #### My Vocabulary App
 
+  <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/topwords.gif" width=300>
+  
 [Available in playStore](https://play.google.com/store/apps/details?id=com.lw.topwords&hl=tr&gl=US)
 </div>
 <div style="flex=1;">
