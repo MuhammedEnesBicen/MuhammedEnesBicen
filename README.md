@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **muhammedenesbicen49@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/13t8-tpvSZu_xLnWxzVCekV1cX5X8HAb8?usp=sharing](https://drive.google.com/drive/folders/13t8-tpvSZu_xLnWxzVCekV1cX5X8HAb8?usp=sharing)
+- 📄 Know about my experiences [link](https://drive.google.com/drive/folders/13t8-tpvSZu_xLnWxzVCekV1cX5X8HAb8?usp=sharing)
+- 📑 Resume [link](https://resume.io/r/unXHUXq6e)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
