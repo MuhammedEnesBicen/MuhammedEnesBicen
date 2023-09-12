@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm MUHAMMED ENES BİÇEN</h1>
-<h3 align="center">Developer(Jr. - Backend, mobile(flutter), fullstack)</h3>
+<h3 align="center">Developer(Jr. - Backend(Dotnet), mobile(flutter), fullstack)</h3>
 
 # 
 
 <!--Profile Views-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedenesbicen&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedenesbicen" /> </p> -->
 
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedenesbicen" alt="muhammedenesbicen" /></a> </p>
-
+-->
 - 🌱 I’m currently learning **Asp.Net Core, Flutter**
 
 - 📫 How to reach me **muhammedenesbicen49@gmail.com**
@@ -18,7 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammedenesbicen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedenesbicen" height="30" width="40" /></a>
+<!--
 <a href="https://www.hackerrank.com/muhammedenesbic1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammedenesbic1" height="30" width="40" /></a>
+  -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,7 +35,17 @@
 
 ## Some of my Projects
 
-###To see my latest app [click here](https://play.google.com/store/apps/details?id=com.lw.wallpapa)
+To see my latest app [click here](https://play.google.com/store/apps/details?id=com.lw.wallpapa) ⬇️
+
+<div style="display:flex; ">
+<div style="flex=1;">
+
+#### WallPapa - Wallpaper App
+
+  <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/wallpapa.png" >
+  
+[Available in playStore](https://play.google.com/store/apps/details?id=com.lw.wallpapa)
+</div>
 
 <div style="display:flex; ">
 <div style="flex=1;">
@@ -42,6 +55,17 @@
   <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/topwords.gif" width=300>
   
 [Available in playStore](https://play.google.com/store/apps/details?id=com.lw.topwords&hl=tr&gl=US)
+</div>
+<div style="flex=1;">
+
+<div style="display:flex; ">
+<div style="flex=1;">
+
+#### Safebox - My Cloud Storage App (it can be loading very slowly because of Azure, please be patient)
+
+  <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/safebox.png" >
+  
+[Available in playStore](https://safebox20220213121228.azurewebsites.net/)
 </div>
 <div style="flex=1;">
 
