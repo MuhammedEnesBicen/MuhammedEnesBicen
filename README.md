@@ -32,7 +32,7 @@
 
 ## Some of my Projects
 
-To see my latest app [click here](https://play.google.com/store/apps/details?id=com.lw.wallpapa)
+###To see my latest app [click here](https://play.google.com/store/apps/details?id=com.lw.wallpapa)
 
 <div style="display:flex; ">
 <div style="flex=1;">
