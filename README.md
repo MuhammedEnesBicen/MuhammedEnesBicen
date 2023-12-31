@@ -41,9 +41,9 @@
 
 My Mandatory Intern Project: Maun Mobil
 
-<div style="overflow-x:scroll;white-space: nowrap;">
+<div style="overflow-x:scroll;white-space: nowrap;"markdown="block">
 
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/1.png?raw=true" style="width:200px;" style="display: inline-block;">
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/1.png?raw=true" style="width:200px;" >
 <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/2.png?raw=true" style="width:200px;" style="display: inline-block;">
 <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/3.png?raw=true" style="width:200px;" style="display: inline-block;">
 <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/4.png?raw=true" style="width:200px;" style="display: inline-block;">
