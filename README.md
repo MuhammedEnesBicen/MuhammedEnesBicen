@@ -41,17 +41,17 @@
 
 My Mandatory Intern Project: Maun Mobil
 
-<div style="overflow-x:scroll;white-space: nowrap;"markdown="block">
+<div style="overflow-x:auto;white-space: nowrap;"markdown="block">
 
 <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/1.png?raw=true" style="width:200px;" >
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/2.png?raw=true" style="width:200px;" style="display: inline-block;">
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/3.png?raw=true" style="width:200px;" style="display: inline-block;">
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/4.png?raw=true" style="width:200px;" style="display: inline-block;">
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/5.png?raw=true" style="width:200px;" style="display: inline-block;">
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/6.png?raw=true" style="width:200px;" style="display: inline-block;">
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/7.png?raw=true" style="width:200px;" style="display: inline-block;">
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/8.png?raw=true" style="width:200px;" style="display: inline-block;">
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/9.png?raw=true" style="width:200px;" style="display: inline-block;">
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/2.png?raw=true" style="width:200px;" >
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/3.png?raw=true" style="width:200px;" >
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/4.png?raw=true" style="width:200px;" >
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/5.png?raw=true" style="width:200px;" >
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/6.png?raw=true" style="width:200px;" >
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/7.png?raw=true" style="width:200px;" >
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/8.png?raw=true" style="width:200px;" >
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/9.png?raw=true" style="width:200px;" >
 
 </div>
 
