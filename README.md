@@ -41,20 +41,22 @@
 
 My Mandatory Intern Project: Maun Mobil
 
-<div style="overflow:auto;white-space: nowrap;">
+<div style="overflow-x:scroll;white-space: nowrap;">
 
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/1.png" style="width:200px;" style="display: inline-block;">
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/2.png" style="width:200px;" style="display: inline-block;">
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/3.png" style="width:200px;" style="display: inline-block;">
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/4.png" style="width:200px;" style="display: inline-block;">
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/5.png" style="width:200px;" style="display: inline-block;">
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/6.png" style="width:200px;" style="display: inline-block;">
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/7.png" style="width:200px;" style="display: inline-block;">
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/8.png" style="width:200px;" style="display: inline-block;">
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/9.png" style="width:200px;" style="display: inline-block;">
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/1.png?raw=true" style="width:200px;" style="display: inline-block;">
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/2.png?raw=true" style="width:200px;" style="display: inline-block;">
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/3.png?raw=true" style="width:200px;" style="display: inline-block;">
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/4.png?raw=true" style="width:200px;" style="display: inline-block;">
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/5.png?raw=true" style="width:200px;" style="display: inline-block;">
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/6.png?raw=true" style="width:200px;" style="display: inline-block;">
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/7.png?raw=true" style="width:200px;" style="display: inline-block;">
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/8.png?raw=true" style="width:200px;" style="display: inline-block;">
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/9.png?raw=true" style="width:200px;" style="display: inline-block;">
 
 </div>
 
+<br/>
+<br/>
 To see my latest app [click here](https://play.google.com/store/apps/details?id=com.lw.wallpapa) ⬇️
 
 <div style="display:flex; ">
