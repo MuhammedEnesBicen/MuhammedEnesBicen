@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MUHAMMED ENES BİÇEN</h1>
-<h3 align="center">Developer(Jr. - Backend(Dotnet), mobile(flutter), fullstack)</h3>
+<h3 align="center">Jr. Developer | Backend(Dotnet) - Mobile(flutter) - Fullstack</h3>
 
 #
 
@@ -10,9 +10,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedenesbicen" alt="muhammedenesbicen" /></a> </p>
 -->
 
-- 🌱 I’m a **Asp.Net Core & Flutter** developer
+- 🌱 I’m an **Asp.Net Core & Flutter** developer
 
-- 💼 I am an intern developer at Muş Alparslan University IT Department. I am developing the mobile application of the university.
+- 💼 I did my long term internship at Muş Alparslan University IT Department. At January 2024 i finished my internsip and graduated from Firat University with 2.95 GPA. Currently I am looking for a job.
 
 - 📫 How to reach me **muhammedenesbicen49@gmail.com**
 
@@ -39,60 +39,46 @@
 
 ## Some of my Projects
 
-My Mandatory Intern Project: Maun Mobil
+### My Latest Web App : Apartment Management Web App
+
+[See the project live](https://aparmentbillmanagementmvc20240208234049.azurewebsites.net/)
+
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/abms.png?raw=true">
+
+<br/><hr/>
+
+### My Mandatory Intern Project: Maun Mobil
 
 <div style="overflow-x:auto;white-space: nowrap;"markdown="block">
-
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/1.png?raw=true" style="width:200px;" >
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/2.png?raw=true" style="width:200px;" >
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/3.png?raw=true" style="width:200px;" >
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/4.png?raw=true" style="width:200px;" >
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/5.png?raw=true" style="width:200px;" >
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/6.png?raw=true" style="width:200px;" >
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/7.png?raw=true" style="width:200px;" >
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/8.png?raw=true" style="width:200px;" >
-<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun/9.png?raw=true" style="width:200px;" >
-
+<img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/maun.png?raw=true" >
 </div>
 
-<br/>
-<br/>
-To see my latest app [click here](https://play.google.com/store/apps/details?id=com.lw.wallpapa) ⬇️
-
-<div style="display:flex; ">
-<div style="flex=1;">
+<br/><hr/>
 
 #### WallPapa - Wallpaper App
 
   <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/wallpapa.png" >
   
 [Available in playStore](https://play.google.com/store/apps/details?id=com.lw.wallpapa)
-</div>
 
-<div style="display:flex; ">
-<div style="flex=1;">
+<br/><hr/>
 
 #### My Vocabulary App
 
   <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/topwords.gif" width=300>
   
 [Available in playStore](https://play.google.com/store/apps/details?id=com.lw.topwords&hl=tr&gl=US)
-</div>
-<div style="flex=1;">
 
-<div style="display:flex; ">
-<div style="flex=1;">
+<br/><hr/>
 
 #### Safebox - My Cloud Storage App (it can be loading very slowly because of Azure, please be patient)
 
   <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/safebox.png" >
   
-[Available in playStore](https://safebox20220213121228.azurewebsites.net/)
-</div>
-<div style="flex=1;">
+[Visit SafeBox via this link](https://safebox20220213121228.azurewebsites.net/)
+
+<br/><hr/>
 
 #### My driblle design implementation in flutter
 
 <img src="https://github.com/MuhammedEnesBicen/implementation-of-a-dribbble-design-in-flutter---shop-app/blob/master/assets/github/applive.gif" width=300>
-</div>
-</div>
