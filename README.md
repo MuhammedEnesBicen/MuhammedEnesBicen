@@ -57,7 +57,7 @@
 
 #### WallPapa - Wallpaper App
 
-  <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/wallpapa.png" >
+  <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/wallpapa.png" >
   
 [Available in playStore](https://play.google.com/store/apps/details?id=com.lw.wallpapa)
 
@@ -65,7 +65,7 @@
 
 #### My Vocabulary App
 
-  <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/topwords.gif" width=300>
+  <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/topwords.gif" width=300>
   
 [Available in playStore](https://play.google.com/store/apps/details?id=com.lw.topwords&hl=tr&gl=US)
 
@@ -73,7 +73,7 @@
 
 #### Safebox - My Cloud Storage App (it can be loading very slowly because of Azure, please be patient)
 
-  <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/safebox.png" >
+  <img src="https://github.com/MuhammedEnesBicen/MuhammedEnesBicen/blob/main/images/safebox.png" >
   
 [Visit SafeBox via this link](https://safebox20220213121228.azurewebsites.net/)
 
